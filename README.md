@@ -303,6 +303,7 @@ This repository is manually mantained, and is still very much a work in progress
        + [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
        + [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
        + [clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 3kb gzipped
+       + [Sprite Toolz](https://github.com/non-npc/Sprite-Toolz) - Sprite sheet manipulation tool suite
    - automation
        + [ansible](https://github.com/ansible/ansible) - a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain
        + [core](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first
